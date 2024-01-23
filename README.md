@@ -117,7 +117,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - We care about Android Users, So now we have came with two ways to run
   HiddenEye in Android Devices.
 
-**(A) UserLand App**
+**(a) UserLand App**
 
 - You Have to Download UserLand App.
   [Click Here](https://play.google.com/store/apps/details?id=tech.ula) To
@@ -125,7 +125,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - To read more how to set up userland app Read
   <a href="https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/">HERE</a></p>
 
-**(B) Termux App**
+**(b) Termux App**
 
 - You Have to Download Termux App.
   [Click Here](https://play.google.com/store/apps/details?id=com.termux) To
@@ -179,11 +179,9 @@ git clone https://github.com/DarkSecDevelopers/HiddenEye.git
 
 **11) TOOLS ADDED**
 
-**A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Thanks
-To https://github.com/thewhiteh4t/seeker)**
-
-- NEAR YOU (By @thewhiteh4t )
-- GDRIVE (By @thewhiteh4t)
+**(a) LOCATION (Accurately Locate Smartphones using Social Engineering)**
+  - NEAR YOU (By @thewhiteh4t )
+  - GDRIVE (By @thewhiteh4t)
 <br>
 
 ## <div align="center">Demonstration video</div>
