@@ -1,0 +1,20 @@
+{
+    "name": "HiddenEye Workshop",
+    "image": "mcr.microsoft.com/devcontainers/python:3.8-bullseye",
+    "postCreateCommand": "pip3 install --upgrade pip && pip3 install -r requirements.txt",
+    "postStartCommand": "echo 'Environment ready! Python version: $(python --version)'",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "formulahendry.terminal"
+            ],
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "bash"
+            }
+        }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/git:1": {}
+    }
+}
